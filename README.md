@@ -1,5 +1,5 @@
 # Test
-Sorting Pre-defined String
+Sorting User Input Pre-defined String
 
 A program which sort the given string into alphabets order based on words. User has to use the
 provided string as an input. If other than that string received, program will show error
